@@ -27,4 +27,3 @@ int main()
     {cin>>w[i]>>p[i];}
     cout<<"Here maximum benefit is: "<<k(n,s,w,p);
     getch();}
-
